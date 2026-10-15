@@ -129,32 +129,7 @@ Nexora is a production-oriented digital commerce platform designed to simplify t
 ## 📁 Project Structure
 
 ```text
-nexora/
-│
-├── client/
-│   ├── src/
-│   │   ├── components/
-│   │   ├── pages/
-│   │   ├── layouts/
-│   │   ├── hooks/
-│   │   ├── services/
-│   │   ├── store/
-│   │   └── utils/
-│   └── package.json
-│
-├── server/
-│   ├── controllers/
-│   ├── middleware/
-│   ├── models/
-│   ├── routes/
-│   ├── services/
-│   ├── utils/
-│   └── server.js
-│
-├── .gitignore
-├── README.md
-└── package.json
-```
+
 
 ---
 
